@@ -1,0 +1,35 @@
+{
+    "version": 1,
+    "name": "Move",
+    "maps": [
+        {
+            "name": "Player",
+            "id": "8880135a-e31f-4869-95bc-cd78c4b53010",
+            "actions": [
+                {
+                    "name": "New action",
+                    "type": "Value",
+                    "id": "9a0cd884-effb-4680-b6bb-f59ba055a8bc",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "d2680a3f-ef61-4897-ae80-25a8332ba0a6",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
